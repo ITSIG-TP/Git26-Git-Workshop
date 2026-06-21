@@ -10,7 +10,6 @@ Whether you have never touched a terminal before or just want to tidy up the bas
 |---|---|
 | `Labsheets/` | The step-by-step lab sheet we follow during the session |
 | `Materials/` | Practice files for the branching and merging exercise |
-| `slides/` | Workshop slides |
 
 
 ## ✏️ Exercise: Make Your First Pull Request
@@ -30,7 +29,7 @@ cd <repo-name>
 3. Link the original repo as upstream
 This lets you pull in the latest changes from the workshop repo later. You only do this once.
 ```bash
-git remote add upstream https://github.com/<itsig-org>/<repo-name>.git
+git remote add upstream https://github.com/ITSIG-TP/Git26-Git-Workshop.git
 git remote -v
 ```
 
