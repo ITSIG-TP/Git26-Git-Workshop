@@ -8,7 +8,6 @@ Whether you have never touched a terminal before or just want to tidy up the bas
 
 | Folder / File | Description |
 |---|---|
-| `Labsheets/` | The step-by-step lab sheet we follow during the session |
 | `Materials/` | Practice files for the branching and merging exercise |
 
 
